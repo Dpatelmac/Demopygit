@@ -1,5 +1,7 @@
 print ('hello')
 
-print('welcome to machine1')
+print('welcome to Hello1')
 
-print('welcome to machine2')
+print('welcome to Hello2')
+
+print('welcome to Hello3')
